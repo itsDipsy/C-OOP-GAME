@@ -3,6 +3,6 @@
 #include "./headers/TheGameMap.hpp"
 int main()
 {
-    the_game_loop(player, 2);
+    the_game_loop(player, game_map);
     return 0;
 }
