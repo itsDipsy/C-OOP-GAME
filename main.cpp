@@ -1,4 +1,3 @@
-#include <iostream>
 #include "./headers/gameloop.hpp"
 #include "./headers/player.hpp"
 int main()
