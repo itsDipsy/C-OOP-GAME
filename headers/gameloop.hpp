@@ -1,3 +1,3 @@
 #include <iostream>
 
-void the_game_loop();
+void the_game_loop(int player, int gamemap);
