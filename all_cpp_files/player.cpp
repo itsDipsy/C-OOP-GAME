@@ -1,3 +1,3 @@
-#include "./headers/player.hpp"
+#include "../headers/player.hpp"
 
-int player = 1;
+int player;
